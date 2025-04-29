@@ -1,9 +1,9 @@
 # pgzero---Platform-Mage
-Teste da das ferramentas básicas da biblioteca pgzero
+Teste das ferramentas básicas da biblioteca pgzero
 
 ## Exevução
 
-Para excutar o projeto rode
+Para executar o projeto rode
 
 ```bash
   pgzrun main.py
